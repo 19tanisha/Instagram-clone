@@ -1,7 +1,7 @@
 import React from "react";
 import { StyleSheet, Text, View, Image } from "react-native";
 import { Avatar } from "react-native-paper";
-
+/*this is my comment*/
 const Post = ({ username, caption, uri }) => {
   return (
     <View style={styles.container}>
